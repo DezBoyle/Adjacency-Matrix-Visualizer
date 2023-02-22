@@ -1,0 +1,17 @@
+C:\src\Other\AdjacencyMatrix\AdjacencyMatrix\bin\Debug\net6.0-windows\AdjacencyMatrix.exe
+C:\src\Other\AdjacencyMatrix\AdjacencyMatrix\bin\Debug\net6.0-windows\AdjacencyMatrix.deps.json
+C:\src\Other\AdjacencyMatrix\AdjacencyMatrix\bin\Debug\net6.0-windows\AdjacencyMatrix.runtimeconfig.json
+C:\src\Other\AdjacencyMatrix\AdjacencyMatrix\bin\Debug\net6.0-windows\AdjacencyMatrix.dll
+C:\src\Other\AdjacencyMatrix\AdjacencyMatrix\bin\Debug\net6.0-windows\AdjacencyMatrix.pdb
+C:\src\Other\AdjacencyMatrix\AdjacencyMatrix\obj\Debug\net6.0-windows\AdjacencyMatrix.csproj.AssemblyReference.cache
+C:\src\Other\AdjacencyMatrix\AdjacencyMatrix\obj\Debug\net6.0-windows\AdjacencyMatrix.Form1.resources
+C:\src\Other\AdjacencyMatrix\AdjacencyMatrix\obj\Debug\net6.0-windows\AdjacencyMatrix.csproj.GenerateResource.cache
+C:\src\Other\AdjacencyMatrix\AdjacencyMatrix\obj\Debug\net6.0-windows\AdjacencyMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\Other\AdjacencyMatrix\AdjacencyMatrix\obj\Debug\net6.0-windows\AdjacencyMatrix.AssemblyInfoInputs.cache
+C:\src\Other\AdjacencyMatrix\AdjacencyMatrix\obj\Debug\net6.0-windows\AdjacencyMatrix.AssemblyInfo.cs
+C:\src\Other\AdjacencyMatrix\AdjacencyMatrix\obj\Debug\net6.0-windows\AdjacencyMatrix.csproj.CoreCompileInputs.cache
+C:\src\Other\AdjacencyMatrix\AdjacencyMatrix\obj\Debug\net6.0-windows\AdjacencyMatrix.dll
+C:\src\Other\AdjacencyMatrix\AdjacencyMatrix\obj\Debug\net6.0-windows\refint\AdjacencyMatrix.dll
+C:\src\Other\AdjacencyMatrix\AdjacencyMatrix\obj\Debug\net6.0-windows\AdjacencyMatrix.pdb
+C:\src\Other\AdjacencyMatrix\AdjacencyMatrix\obj\Debug\net6.0-windows\AdjacencyMatrix.genruntimeconfig.cache
+C:\src\Other\AdjacencyMatrix\AdjacencyMatrix\obj\Debug\net6.0-windows\ref\AdjacencyMatrix.dll
